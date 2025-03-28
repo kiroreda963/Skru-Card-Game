@@ -1,4 +1,3 @@
-# Skru-Card-Game
 
 # Skru - A JavaFX Game
 
@@ -8,7 +7,7 @@ Skru is a strategic card game for 4 players that uses a standard 52-card deck. T
 ## Features
 - **Object-Oriented Design:** Implements encapsulation, inheritance, and polymorphism.
 - **JavaFX UI:** A dynamic and visually appealing user interface.
-- **Event Handling:** Smooth user interactions through keyboard and mouse controls.
+- **Event Handling:** Smooth user interactions through  mouse controls.
 - **Game Logic:** Well-structured game mechanics for an engaging experience.
 - **Scalability:** Modular codebase allowing for future enhancements.
 
@@ -77,7 +76,10 @@ Players take turns in clockwise order and can choose to:
 The game consists of 5 rounds. The player with the lowest total score at the end is the winner.
 
 ## Screenshots
-*(Include relevant screenshots of the game here)*
+*(Include releva![Screenshot 2025-03-28 132531](https://github.com/user-attachments/assets/f53a561d-dcf7-48f9-919b-8eca5129ee16)
+![Screenshot 2025-03-28 133039](https://github.com/user-attachments/assets/68cee380-b981-4944-a9a5-ec3c34ff932e)
+
+nt screenshots of the game here)*
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, create a feature branch, and submit a pull request.
