@@ -76,8 +76,11 @@ Players take turns in clockwise order and can choose to:
 The game consists of 5 rounds. The player with the lowest total score at the end is the winner.
 
 ## Screenshots
-[Screenshot 2025-03-28 132531](https://github.com/user-attachments/assets/f53a561d-dcf7-48f9-919b-8eca5129ee16)
-![Screenshot 2025-03-28 133039](https://github.com/user-attachments/assets/68cee380-b981-4944-a9a5-ec3c34ff932e)
+![Screenshot 2025-03-28 132531](https://github.com/user-attachments/assets/744ec4dc-260b-4506-bbee-08fb5212b8c3)
+
+
+
+![Screenshot 2025-03-28 133039](https://github.com/user-attachments/assets/7d011833-d2cd-4672-88f8-57620c484ab6)
 
 
 
